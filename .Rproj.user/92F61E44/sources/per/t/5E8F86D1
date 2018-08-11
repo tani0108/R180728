@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532765521023.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3488449886",
+    "id" : "5E8F86D1",
+    "lastKnownWriteTime" : 1532769802,
+    "last_content_update" : 1532769802923,
+    "path" : "~/project180728/textmining.R",
+    "project_path" : "textmining.R",
+    "properties" : {
+        "cursorPosition" : "18,14",
+        "scrollLine" : "12",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
